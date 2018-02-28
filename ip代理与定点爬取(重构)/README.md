@@ -32,5 +32,7 @@ Redis数据库中的部分数据截图如下：（序列化之后）
 2. 对外提供接口与使用文档
 3. 可视化管理... ...
 
+**注：此IP代理池真正运用在工程中的版本，[multithreading-crawlers](https://github.com/championheng/multithreading-crawlers)，可以称为第三版，与此版本差别还是挺大的，对于版本3，我会尽快push到这个仓库中... ...**
+
 ## 版本说明
 ![version 2.0](https://img.shields.io/badge/version-2.0-blue.svg)
