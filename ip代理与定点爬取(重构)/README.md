@@ -18,11 +18,6 @@
 
 ![运行结果](http://i4.bvimg.com/633787/dbbaab4034d2b5f5.png)
 
-Redis数据库中的部分数据截图如下：（序列化之后）
-
-![Redis序列化IP数据](http://i2.bvimg.com/633787/d5698a20356e60f8.png)
-
-
 就目前来说，如果想要真正的将此IP代理池运用到其它工程中，还需要对代码做额外的补充，最基本也要考虑使用`通知/等待机制`。
 
 对于将此IP代理池如何运用到一个工程中，可以参考：[multithreading-crawlers](https://github.com/championheng/multithreading-crawlers)
